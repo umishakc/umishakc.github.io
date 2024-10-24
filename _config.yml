@@ -58,10 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Umisha KC"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "PhD Candidate. Intergroup Scholar. Interested in relationships and social identity."
-  links:
+name   : "Umisha KC"
+avatar : "/assets/images/photo.jpg"
+bio    : "PhD Candidate. Intergroup Scholar. Interested in relationships and social identity."
+links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://d8.dev.communication.umd.edu/directory/umisha-kc"
