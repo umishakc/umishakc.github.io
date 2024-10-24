@@ -5,3 +5,5 @@
 layout: home
 author_profile: true
 ---
+
+I am a PhD candidate in Communication at University of Maryland, College Park. My research interests are media and intergroup relationships.
