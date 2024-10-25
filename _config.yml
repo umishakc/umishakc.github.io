@@ -65,10 +65,10 @@ links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://d8.dev.communication.umd.edu/directory/umisha-kc"
-  # - label: "LinkedIn"
-#     icon: "fa-linkedin"
-  #  url: "https://www.linkedin.com/in/umishakc/"
-#    - label: "GitHub"
+   - label: "LinkedIn"
+   icon: "fa-linkedin"
+   url: "https://www.linkedin.com/in/umishakc/"
+ # - label: "GitHub"
    #   icon: "fab fa-fw fa-github"
  #     url: "https://github.com/"
  #   - label: "Instagram"
@@ -77,9 +77,9 @@ links:
 
 footer:
   links:
-   # - label: "LinkedIn"
-   #   icon: "fa-linkedin"
- #    url: "https://twitter.com/"
+    - label: "LinkedIn"
+     icon: "fa-linkedin"
+  url: "https://www.linkedin.com/in/umishakc/"
   #  - label: "GitHub"
    #   icon: "fab fa-fw fa-github"
      # url: "https://www.linkedin.com/in/umishakc/"
