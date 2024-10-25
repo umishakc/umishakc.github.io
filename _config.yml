@@ -59,7 +59,7 @@ plugins:
 
 author:
 name   : "Umisha KC"
-avatar : "/assets/images/bio-photo.jpg"
+avatar : "/assets/images/photo.jpg"
 bio    : "PhD Candidate. Intergroup Scholar. Interested in relationships and social identity."
 links:
     - label: "Website"
